@@ -1,4 +1,3 @@
---Beginner
 
 --1 List the top 10 orders with the highest sales form the EachOrderBreakdown table.
 SELECT * FROM EachOrderBreakdown
